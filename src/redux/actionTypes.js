@@ -1,0 +1,4 @@
+export const SET_NEXT_KEYS = "SET_NEXT_KEYS";
+export const SET_INPUT = "SET_INPUT";
+export const INCREMENT_KEYS_PRESSED = "INCREMENT_KEYS_PRESSED";
+export const SET_ACCURACY = "SET_ACCURACY";
